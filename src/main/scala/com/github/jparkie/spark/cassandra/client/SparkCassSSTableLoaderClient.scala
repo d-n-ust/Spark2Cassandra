@@ -10,7 +10,6 @@ import org.apache.cassandra.db.{ ColumnFamilyType, Keyspace, SystemKeyspace }
 import org.apache.cassandra.io.sstable.SSTableLoader
 import org.apache.cassandra.streaming.StreamConnectionFactory
 import org.apache.cassandra.tools.BulkLoadConnectionFactory
-
 import scala.collection.JavaConverters._
 import scala.collection.mutable
 
